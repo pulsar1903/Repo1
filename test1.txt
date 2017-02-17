@@ -1,0 +1,9 @@
+ Datentr„ger in Laufwerk S: ist Offline
+
+ Verzeichnis von S:\9 - Code
+
+17.02.2017  09:26    <DIR>          .
+02.02.2017  15:13    <DIR>          ..
+17.02.2017  09:29               154 test1.txt
+               1 Datei(en),          4.250 Bytes
+               2 Verzeichnis(se), 56.239.362.048 Bytes frei
